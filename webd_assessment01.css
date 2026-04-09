@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+.cont{
+    background: white;
+    padding: 20px;
+    width: 300px;
+    margin: 100px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+input{
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+button{
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkblue;
+}
+#res{
+    margin-top: 20px;
+    font-weight: bold;
+}
